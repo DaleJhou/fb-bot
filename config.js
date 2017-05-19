@@ -1,4 +1,4 @@
 module.exports = {
-	VERIFY_TOKEN: 'YOUR_TOKEN',
-	PAGE_TOKEN: 'PAGE_TOKEN'
+	VERIFY_TOKEN: 'dale777',
+	PAGE_TOKEN: 'dale777'
 }
